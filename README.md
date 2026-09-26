@@ -1,0 +1,2 @@
+- Receive_voice_and_light_control/receive_voice_and_light_control.ino is the Arduino code for comunicating and controlling .
+- To activate detecting the voice, execute voice_control_light.py
